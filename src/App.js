@@ -70,7 +70,13 @@ class App extends Component{
     console.log('this was previos state', prevState)
     console.log('this is current state', this.state)
   }
-  
+
+  render () {
+    return(
+      <>
+      <SearchBar 
+    )
+  }
     })
       }
         }
