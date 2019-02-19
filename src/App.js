@@ -15,6 +15,18 @@ class App extends Component{
       activeIndex: null,
     }
   }
+
+
+  getlist = () => {
+    let listUrl = `https://pokeapi.co/api/v2/pokemon/?offset=${offset}&limit=20`;
+
+    Axios.get( listUrl)
+    .then(response => response.data)
+    .then(data => {
+      offset +=20;
+      
+    })
+  }
 }
 
 export default App;
