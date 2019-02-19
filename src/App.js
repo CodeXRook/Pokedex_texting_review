@@ -9,7 +9,11 @@ let offset = 0;
 class App extends Component{
   constructor(props){
     super(props);
-    
+    this.state ={
+      search: '',
+      poke_list:[],
+      activeIndex: null,
+    }
   }
 }
 
