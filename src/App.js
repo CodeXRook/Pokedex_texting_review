@@ -4,6 +4,13 @@ import './App.css';
 import Profile from './components/profile';
 import {Homepage} from './components/homepage';
 import Searchbar from './components/searchbar';
+let offset = 0;
 
+class App extends Component{
+  constructor(props){
+    super(props);
+    
+  }
+}
 
 export default App;
