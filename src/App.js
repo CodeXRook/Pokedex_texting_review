@@ -75,7 +75,11 @@ class App extends Component{
     return(
       <>
       <SearchBar click ={this.toggleProfile} />
-    )
+
+      {! this.state.activeIndex ? 
+      <Homepage click ={this.toggleProfile} data= {this.state.poke_list} onClick={this.getlist}/>
+    }
+    );
   }
     })
       }
