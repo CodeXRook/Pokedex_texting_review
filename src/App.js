@@ -55,9 +55,12 @@ class App extends Component{
 
 
   toggleProfile = (name) =>{
+    this.setState({activeIndex: name});
+  }
+
+  toggleHomePage = () => {
     this.setState({activeIndex: null});
   }
-  
     })
       }
         }
