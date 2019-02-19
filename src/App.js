@@ -9,13 +9,13 @@ let offset = 0;
 class App extends Component{
   constructor(props){
     super(props);
-    this.state ={
+
+    this.state = {
       search: '',
       poke_list:[],
       activeIndex: null,
     }
   }
-
 
   getlist = () => {
     let listUrl = `https://pokeapi.co/api/v2/pokemon/?offset=${offset}&limit=20`;
@@ -31,9 +31,17 @@ class App extends Component{
         const number = i + 1 + this.state.poke_list.length;
         const image = `https://img.pokemondb.net/sprites/sun-moon/icon/${name}.png`;
 
-        return { image, name number};
+        return { image, name number };
         }):
-        const 
+        const pkList = this.state.poke_list.concat(dataList);
+        this.setState(poke_list: pkList});
+      }else{
+        const datalist =data.results.map((e, i) =>{
+          const name = e.name;
+          const number = i + 1;
+          const image = `https://img.pokemondb.net/sprites/sun-moon/icon/${name}.png`;
+        }
+      }
         }
       }
     })
