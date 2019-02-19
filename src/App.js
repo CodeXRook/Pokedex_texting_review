@@ -40,7 +40,25 @@ class App extends Component{
           const name = e.name;
           const number = i + 1;
           const image = `https://img.pokemondb.net/sprites/sun-moon/icon/${name}.png`;
-        }
+          
+
+          return {image, name, number };
+        })
+        const pkList = this.state.poke_list.concat(dataList);
+        this.setState({poke_list: pkList});
+      };
+    })
+    .catch(err => {
+      console.log(err);
+    })
+  }
+
+
+  toggleProfile = (name) =>{
+    this.setState({activeIndex: null});
+  }
+  
+    })
       }
         }
       }
