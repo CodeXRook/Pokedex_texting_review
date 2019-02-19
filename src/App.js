@@ -78,14 +78,10 @@ class App extends Component{
 
       {! this.state.activeIndex ? 
       <Homepage click ={this.toggleProfile} data= {this.state.poke_list} onClick={this.getlist}/>
+      <profile name = {this.state.activeIndex} onClick ={this.toggleHomePage}/>}
+      </>
     }
     );
-  }
-    })
-      }
-        }
-      }
-    })
   }
 }
 
