@@ -61,6 +61,16 @@ class App extends Component{
   toggleHomePage = () => {
     this.setState({activeIndex: null});
   }
+
+  ComponentDidMount () {
+    this.getlist();
+  }
+
+  componentDidUpdate (prevProps, prevState) {
+    console.log('this was previos state', prevState)
+    console.log('this is current state', this.state)
+  }
+  
     })
       }
         }
