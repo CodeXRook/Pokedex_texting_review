@@ -24,7 +24,18 @@ class App extends Component{
     .then(response => response.data)
     .then(data => {
       offset +=20;
-      
+
+      if(this.state.poke_list.length >= 20){
+        const dataList = data.results.map(e, i) => {
+        const number = e.name;
+        const number = i + 1 + this.state.poke_list.length;
+        const image = `https://img.pokemondb.net/sprites/sun-moon/icon/${name}.png`;
+
+        return { image, name number};
+        }):
+        const 
+        }
+      }
     })
   }
 }
