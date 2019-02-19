@@ -74,7 +74,7 @@ class App extends Component{
   render () {
     return(
       <>
-      <SearchBar 
+      <SearchBar click ={this.toggleProfile} />
     )
   }
     })
