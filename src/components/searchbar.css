@@ -22,3 +22,13 @@
     width: 100px;
     height: 100px;
 }
+
+
+.search_col{
+    flex: 2;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
