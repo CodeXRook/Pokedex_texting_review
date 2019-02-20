@@ -1,6 +1,7 @@
 const pkmn_list =[
     "Bulbasaur",
     "Ivysaur",
+    "Venusaur",
     "Charmander",
     "Charmeleon",
     "Squirtle",
