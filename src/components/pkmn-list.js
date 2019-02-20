@@ -1,3 +1,8 @@
 const pkmn_list =[
-    "Bulbasaur"
+    "Bulbasaur",
+    "Ivysaur",
+    "Charmander",
+    ""
 ]
+
+export {pkmn_list};
