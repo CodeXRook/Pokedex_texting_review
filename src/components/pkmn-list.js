@@ -158,7 +158,18 @@ const pkmn_list =[
     "Typhlosion",
     "Totodile",
     "Croconaw",
-
+    "Feraligatr",
+    "Sentret",
+    "Furret",
+    "Hoothoot",
+    "Noctowl",
+    "Ledyba",
+    "Ledian",
+    "Spinarak",
+    "Ariados",
+    "Crobat",
+    "Chinchou",
+    "Lanturn",
 
 ]
 
