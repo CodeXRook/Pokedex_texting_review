@@ -256,6 +256,16 @@ const pkmn_list =[
     "Torchic",
     "Combusken",
     "Blaziken",
+    "Mudkip",
+    "Marshtomp",
+    "Swampert",
+    "Poochyena",
+    "Mightyena",
+    "Zigzagoon",
+    "Linoone",
+    "Wurmple",
+    "Silcoon",
+    "Beautifly",
 ]
 
 export {pkmn_list};
