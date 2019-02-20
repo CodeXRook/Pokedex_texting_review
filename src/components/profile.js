@@ -120,7 +120,9 @@ class Profile extends Component {
                 <h1 className='name-header'>#{this.state.id} - {this.state.name}</h1>
 
                 <div className='img-container'>
-                
+                    <div className='pk-img-col'>
+                        <img className='pk-img' src={this.state.image} alt={this.state.name}></img>
+                    </div>
                 </div>
            </div>
 
