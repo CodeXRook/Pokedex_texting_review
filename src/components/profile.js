@@ -39,13 +39,28 @@ class Profile extends Component {
             });
             
             const baseStatsArr= stats.map(e => {
-                const val = e.base_state;
-                const statName = e.base_state;
+                const val = e.base_stat;
+                const statName = e.base_stat;
                 return {statName, val};
             });
 
             const movesArr = moves.map((e, i ) => {
                 const name = e.move.name;
+
+
+
+                return {name};
+            });
+            
+
+            this.setState({
+                name: name,
+                id: id,
+                image: image,
+                sprites: spritesArr,
+                types: typesArr,
+                baseStats: baseStatsArr
+
             })
             }
         })
