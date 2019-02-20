@@ -85,6 +85,16 @@ class Profile extends Component {
         
         return typeWord;
     }
+
+    moveButon () {
+        const moveButton = this.state.moves.map((v,i) => {
+            return <h1 key={i} className='m-button'>{v.name}</h1>
+        });
+        return moveButton;
+
+    }
+
+    bsCard ()
         })
     }
 }
