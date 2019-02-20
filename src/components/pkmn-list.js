@@ -18,6 +18,16 @@ const pkmn_list =[
     "Rattata",
     "Raticate",
     "Spearow",
+    "Fearow",
+    "Ekans",
+    "Arbok",
+    "Pikachu",
+    "Raichu",
+    "Sandshrew",
+    "Sandslash",
+    "Nidoran♀",
+
+
 ]
 
 export {pkmn_list};
