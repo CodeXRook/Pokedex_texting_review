@@ -24,3 +24,8 @@
 .p-container {
     margin: 20px 15%
 }
+
+
+.img-container{
+    display: flex;
+}
