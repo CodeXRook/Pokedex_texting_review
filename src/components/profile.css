@@ -82,3 +82,8 @@
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: #3a3a3a
 }
+
+.bs-header{
+    margin: 0px 30px;
+    color: #3a3a3a;
+}
