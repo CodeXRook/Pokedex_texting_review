@@ -281,6 +281,13 @@ const pkmn_list =[
     "Ralts",
     "Kirlia",
     "Gardevoir",
+    "Surskit",
+    "Masquerain",
+    "Shroomish",
+    "Breloom",
+    "Slakoth",
+    "Vigoroth",
+    "Slacking",
 ]
 
 export {pkmn_list};
