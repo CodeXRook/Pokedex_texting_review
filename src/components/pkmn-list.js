@@ -199,6 +199,14 @@ const pkmn_list =[
     "Murkrow",
     "Slowking",
     "Misdreavus",
+    "Unown",
+    "Wobbuffet",
+    "Girafarig",
+    "Pineco",
+    "Forrestress",
+    "Dunsparce",
+    "Gligar",
+    "Steelix",
 ]
 
 export {pkmn_list};
