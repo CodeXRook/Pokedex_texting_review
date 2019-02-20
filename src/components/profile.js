@@ -64,7 +64,11 @@ class Profile extends Component {
             .catch(err=> {
                 console.log(err)
             })
-            }
+    }
+
+    componentDidMount () {
+        
+    }    
         })
     }
 }
