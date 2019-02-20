@@ -367,6 +367,17 @@ const pkmn_list =[
     "Clamperl",
     "Huntail",
     "Gorebyss",
+    "Relicanth",
+    "Luvdisc",
+    "Bagon",
+    "Shelgon",
+    "Salamence",
+    "Beldum",
+    "Metang",
+    "Metagross",
+    "Regirock",
+    "Regice",
+    "Registell",
     
 ]
 
