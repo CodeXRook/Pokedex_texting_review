@@ -11,4 +11,7 @@ class Searchbar extends React.Component{
             searchResults:[]
         } 
     }
+    changeText(currentText ) {
+        this.setState({ currentText });
+    }
 }
