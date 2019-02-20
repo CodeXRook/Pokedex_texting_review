@@ -377,7 +377,7 @@ const pkmn_list =[
     "Metagross",
     "Regirock",
     "Regice",
-    "Registell",
+    "Registeel",
     
 ]
 
