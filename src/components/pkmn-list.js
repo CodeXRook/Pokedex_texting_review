@@ -26,7 +26,9 @@ const pkmn_list =[
     "Sandshrew",
     "Sandslash",
     "Nidoran♀",
-
+    "Nidorina",
+    "Nidoqueen",
+    "Nidoran♂",
 
 ]
 
