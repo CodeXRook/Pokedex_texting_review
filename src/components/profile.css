@@ -58,5 +58,8 @@
 }
 
 .sprite-col{
-    
+    display: flex;
+    flex-wrap: wrap;
+    flex: 3;
+    justify-content: center;
 }
