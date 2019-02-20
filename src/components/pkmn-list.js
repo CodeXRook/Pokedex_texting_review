@@ -290,6 +290,15 @@ const pkmn_list =[
     "Slacking",
     "Nincada",
     "Ninjask",
+    "Shedinja",
+    "Whismur",
+    "Loudred",
+    "Exploud",
+    "Makuhita",
+    "Hariyama",
+    "Azurill",
+    "Nosepass",
+    
 ]
 
 export {pkmn_list};
