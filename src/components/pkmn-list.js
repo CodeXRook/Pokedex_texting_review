@@ -241,6 +241,14 @@ const pkmn_list =[
     "Magby",
     "Milktank",
     "Blissey",
+    "Raikou",
+    "Entei",
+    "Suicune",
+    "Larvitar",
+    "Pupitar",
+    "Tyranitar",
+    "Lugia",
+    "Ho-Oh",
 ]
 
 export {pkmn_list};
