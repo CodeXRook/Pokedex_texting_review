@@ -330,6 +330,13 @@ const pkmn_list =[
     "Vibrava",
     "Flygon",
     "Cacnea",
+    "Cacturne",
+    "Swablu",
+    "Altaria",
+    "Zangoose",
+    "Seviper",
+    "Lunatone",
+    "Solrock",
 ]
 
 export {pkmn_list};
