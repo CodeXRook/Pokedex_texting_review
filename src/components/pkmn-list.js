@@ -170,7 +170,18 @@ const pkmn_list =[
     "Crobat",
     "Chinchou",
     "Lanturn",
-
+    "Pichu",
+    "Cleffa",
+    "Igglybuff",
+    "Togepi",
+    "Togetic",
+    "Natu",
+    "Xatu",
+    "Mareep",
+    "Flaaffy",
+    "Ampharos",
+    "Bellossom",
+    "Marill",
 ]
 
 export {pkmn_list};
