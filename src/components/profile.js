@@ -33,7 +33,16 @@ class Profile extends Component {
             let image = `http://img.pokemondb.net/artwork/${name}.jpg`;
 
             const spritesArr = [sprites.back_default, sprites.back_shiny, sprites.font_default, sprites.front_shiny];
+
+            const typesArr =types.map(e => {
+                return e.type.name;
+            })
             
+            const baseStatsArr= stats.map(e => {
+                const val = e.base_state;
+                const statName = e.base_state;
+                return {statName, val};
+            })
             }
         })
     }
