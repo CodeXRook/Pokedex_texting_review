@@ -13,5 +13,16 @@ class Searchbar extends React.Component{
     }
     changeText(currentText ) {
         this.setState({ currentText });
+        //console.log({currentText});
+
+    }
+    onChange=(e)=>{
+        const input= e.target.value;
+
+        if(input ==='' || input ===' '){
+            this.setState({searchResults:[]});
+        }else{
+            const
+        }
     }
 }
