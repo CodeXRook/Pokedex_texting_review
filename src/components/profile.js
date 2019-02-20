@@ -130,7 +130,11 @@ class Profile extends Component {
                             {this.spritesImg()}
                     </div>
                 </div>
+
                 <h1 className='bs-header'>Base Stats</h1>
+                <div className='bs-container'>
+                        {this.bsCard()}
+                </div>
            </div>
 
        )
