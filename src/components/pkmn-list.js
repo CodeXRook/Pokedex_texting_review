@@ -140,7 +140,12 @@ const pkmn_list =[
     "Omastar",
     "Kabuto",
     "Kabutops",
-    
+    "Articuno",
+    "Snorlax",
+    "Articuno",
+    "Zapdos",
+    "Moltres",
+
 
 ]
 
