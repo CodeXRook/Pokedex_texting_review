@@ -266,6 +266,21 @@ const pkmn_list =[
     "Wurmple",
     "Silcoon",
     "Beautifly",
+    "Cascoon",
+    "Dustox",
+    "Lotad",
+    "Lombre",
+    "Ludicolo",
+    "Seedot",
+    "Nuzleaf",
+    "Shiftry",
+    "Taillow",
+    "Swellow",
+    "Wingull",
+    "Pelipper",
+    "Ralts",
+    "Kirlia",
+    "Gardevoir",
 ]
 
 export {pkmn_list};
