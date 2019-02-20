@@ -3,3 +3,13 @@
     background-color: #C32826;
     min-height:20%;
 }
+
+.header-title{
+    text-align: center;
+    color: #C32826;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.searchbar-container{
+    
+}
