@@ -43,7 +43,7 @@ const pkmn_list =[
     "Golbat",
     "Oddish",
     "Gloom",
-    "Vileplum",
+    "Vileplume",
     "Paras",
     "Parasect",
     "Venonat",
