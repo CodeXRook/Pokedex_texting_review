@@ -40,4 +40,7 @@
 .pk-img{
     display: inline-block;
     width: 200px;
+    height: 200px;
+    margine-buttom: 40px;
+    margin-top: 20px;
 }
