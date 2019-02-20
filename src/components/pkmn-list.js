@@ -378,7 +378,14 @@ const pkmn_list =[
     "Regirock",
     "Regice",
     "Registeel",
-    
+    "Latias",
+    "Latios",
+    "Kyogre",
+    "Groudon",
+    "Rayquaza",
+    "Jirachi",
+    "Deoxys",
+    "Turwig",
 ]
 
 export {pkmn_list};
