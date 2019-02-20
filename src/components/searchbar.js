@@ -22,7 +22,11 @@ class Searchbar extends React.Component{
         if(input ==='' || input ===' '){
             this.setState({searchResults:[]});
         }else{
-            const
+            const searchResultsArr=pkmn_list.map(e,i)=>{
+                if(e.toUpperCase().includes(input.toUpperCase())){
+                    return e;
+                }
+            }
         }
     }
 }
