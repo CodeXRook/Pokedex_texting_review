@@ -298,7 +298,16 @@ const pkmn_list =[
     "Hariyama",
     "Azurill",
     "Nosepass",
-    
+    "Skitty",
+    "Delcatty",
+    "Sableye",
+    "Mawile",
+    "Aron",
+    "Lairon",
+    "Aggron",
+    "Meditite",
+    "Medicham",
+    "Electrike",
 ]
 
 export {pkmn_list};
