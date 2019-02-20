@@ -6,6 +6,12 @@ class Profile extends Component {
     constructor (props) {
         super(props);
 
-        this
+        this.state ={
+            name: '',
+            id: 0,
+            image: '',
+            sprites: [],
+            
+        }
     }
 }
