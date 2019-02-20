@@ -232,6 +232,15 @@ const pkmn_list =[
     "Phanpy",
     "Donphan",
     "Porygon2",
+    "Stantler",
+    "Smeargle",
+    "Tyrogue",
+    "Hitmontop",
+    "Smoochum",
+    "Elekid",
+    "Magby",
+    "Milktank",
+    "Blissey",
 ]
 
 export {pkmn_list};
