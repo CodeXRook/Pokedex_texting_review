@@ -71,7 +71,27 @@ const pkmn_list =[
     "Weepinbell",
     "Victreebel",
     "Tentacool",    
-
+    "Tentacruel",
+    "Geodude",
+    "Graveler",
+    "Golem",
+    "Ponyta",
+    "Rapidash",
+    "Slowpoke",
+    "Slowbro",
+    "Magnemite",
+    "Magneton",
+    "Farfetch'd",
+    "Doduo",
+    "Dodrio",
+    "Seel",
+    "Dewgong",
+    "Grimer",
+    "Muk",
+    "Shellder",
+    "Cloyster",
+    "Gastly",
+    "Haunter",
 ]
 
 export {pkmn_list};
