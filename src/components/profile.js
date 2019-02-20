@@ -122,7 +122,11 @@ class Profile extends Component {
                 <div className='img-container'>
                     <div className='pk-img-col'>
                         <img className='pk-img' src={this.state.image} alt={this.state.name}></img>
+                        <div className='types'>
+                            {this.typeWord()}
+                        </div>
                     </div>
+                    
                 </div>
            </div>
 
