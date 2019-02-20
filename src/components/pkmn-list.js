@@ -29,6 +29,17 @@ const pkmn_list =[
     "Nidorina",
     "Nidoqueen",
     "Nidoran♂",
+    "Nidorino",
+    "Nidoking",
+    "Clefairy",
+    "Clefable",
+    "Vulpix",
+    "Ninetales",
+    "Jigglypuff",
+    "Wigglytuff",
+    "Zubat",
+    "Golbat",
+    "Oddish",
 
 ]
 
