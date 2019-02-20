@@ -4,6 +4,7 @@ const pkmn_list =[
     "Venusaur",
     "Charmander",
     "Charmeleon",
+    "Charizard",
     "Squirtle",
     "Wartortle",
     "Blastoise",
