@@ -14,5 +14,6 @@
 }
 
 .pk-name{
-    
+    display: inline-block;
+    font-family: 'Noto Sans', sans-serif;
 }
