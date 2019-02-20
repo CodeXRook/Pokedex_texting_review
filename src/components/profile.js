@@ -29,6 +29,10 @@ class Profile extends Component {
               types,
               stats,
             } = response.data;
+
+            let image = `http://img.pokemondb.net/artwork/${name}.jpg`;
+
+            const spritesArr = [sprites.back_default, sprites.back_shiny, sprites.font_default, sprites.front_shiny];
             
             }
         })
