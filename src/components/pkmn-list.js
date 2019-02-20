@@ -358,6 +358,16 @@ const pkmn_list =[
     "Tropius",
     "Chimecho",
     "Absol",
+    "Wynaut",
+    "Snorunt",
+    "Glalie",
+    "Spheal",
+    "Sealeo",
+    "Walrein",
+    "Clamperl",
+    "Huntail",
+    "Gorebyss",
+    
 ]
 
 export {pkmn_list};
