@@ -15,6 +15,9 @@ const pkmn_list =[
     "Pidgey",
     "Pidgeotto",
     "Pidgeot",
+    "Rattata",
+    "Raticate",
+    "Spearow",
 ]
 
 export {pkmn_list};
