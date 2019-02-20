@@ -67,8 +67,14 @@ class Profile extends Component {
     }
 
     componentDidMount () {
-        
+        this.getPk(this.props.name);
     }    
+
+    spritesImg () {
+        const spritesImg = this.state.sprites.map((e, i) => {
+            return <img className= ''
+        })
+    }
         })
     }
 }
