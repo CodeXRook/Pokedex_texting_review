@@ -6,7 +6,7 @@ import {Homepage} from './components/homepage';
 import Searchbar from './components/searchbar';
 let offset = 0;
 
-class App extends Component{
+class App extends Component {
   constructor(props){
     super(props);
 
@@ -20,21 +20,22 @@ class App extends Component{
   getlist = () => {
     let listUrl = `https://pokeapi.co/api/v2/pokemon/?offset=${offset}&limit=20`;
 
-    Axios.get( listUrl)
+    Axios.get(listUrl)
     .then(response => response.data)
     .then(data => {
       offset +=20;
 
       if(this.state.poke_list.length >= 20){
-        const dataList = data.results.map(e, i) => {
+        const dataList = data.results.map((e, i) => {
         const number = e.name;
         const number = i + 1 + this.state.poke_list.length;
         const image = `https://img.pokemondb.net/sprites/sun-moon/icon/${name}.png`;
 
-        return { image, name number };
-        }):
+        return { image, name, number };
+        });
+
         const pkList = this.state.poke_list.concat(dataList);
-        this.setState(poke_list: pkList});
+        this.setState({poke_list: pkList});
       }else{
         const datalist =data.results.map((e, i) =>{
           const name = e.name;
