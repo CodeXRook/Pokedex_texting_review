@@ -69,3 +69,9 @@
     width: 100px;
     height: 100px;
 }
+
+.name-header {
+    color: #3a3a3a;
+    margin: 0px 30px;
+    text-align: left;
+}
