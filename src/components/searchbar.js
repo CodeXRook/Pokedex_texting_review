@@ -26,7 +26,12 @@ class Searchbar extends React.Component{
                 if(e.toUpperCase().includes(input.toUpperCase())){
                     return e;
                 }
+
             })
+                this.setState({searchResults:searchResultArr});
+
         }
+        
     }
+
 }
