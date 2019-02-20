@@ -224,6 +224,14 @@ const pkmn_list =[
     "Remoraid",
     "Octillery",
     "Delibird",
+    "Mantine",
+    "Skarmory",
+    "Houndour",
+    "Houndoom",
+    "Kingdra",
+    "Phanpy",
+    "Donphan",
+    "Porygon2",
 ]
 
 export {pkmn_list};
