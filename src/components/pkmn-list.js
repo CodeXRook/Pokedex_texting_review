@@ -249,6 +249,13 @@ const pkmn_list =[
     "Tyranitar",
     "Lugia",
     "Ho-Oh",
+    "Celebi",
+    "Treecko",
+    "Grovyle",
+    "Sceptile",
+    "Torchic",
+    "Combusken",
+    "Blaziken",
 ]
 
 export {pkmn_list};
