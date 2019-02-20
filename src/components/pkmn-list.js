@@ -187,6 +187,18 @@ const pkmn_list =[
     "Politoed",
     "Hoppip",
     "Skiploom",
+    "Jumpluff",
+    "Aipom",
+    "Sunkern",
+    "Sunflora",
+    "Yanma",
+    "Wooper",
+    "Quagsire",
+    "Espeon",
+    "Umbreon",
+    "Murkrow",
+    "Slowking",
+    "Misdreavus",
 ]
 
 export {pkmn_list};
