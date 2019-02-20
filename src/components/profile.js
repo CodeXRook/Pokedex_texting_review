@@ -115,6 +115,7 @@ class Profile extends Component {
        return (
            <>
            <div className='p-container'>
+                <h1 className='home-button' onClick={this.props.onClick}>Home >> </h1>
            </div>
 
        )
