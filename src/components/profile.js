@@ -36,12 +36,16 @@ class Profile extends Component {
 
             const typesArr =types.map(e => {
                 return e.type.name;
-            })
+            });
             
             const baseStatsArr= stats.map(e => {
                 const val = e.base_state;
                 const statName = e.base_state;
                 return {statName, val};
+            });
+
+            const movesArr = moves.map((e, i ) => {
+                const name = e.move.name;
             })
             }
         })
