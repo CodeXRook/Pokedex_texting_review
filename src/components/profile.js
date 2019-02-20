@@ -110,6 +110,10 @@ class Profile extends Component {
 
        return bsCard
     }
-        })
+
+   render () {
+       return ()
+   } 
+})
     }
 }
