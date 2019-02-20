@@ -95,3 +95,7 @@
     -webkit-text-stroke-width: 2px;
     -webkit-text-storke-color: #3a3a3a;
 }
+
+.bs-container {
+    border:1px black solid;
+}
