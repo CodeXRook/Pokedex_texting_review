@@ -92,6 +92,22 @@ const pkmn_list =[
     "Cloyster",
     "Gastly",
     "Haunter",
+    "Gengar",
+    "Onix",
+    "Drowzee",
+    "Hypno",
+    "Krabby",
+    "Kingler",
+    "Voltorb",
+    "Electode",
+    "Exeggcute",
+    "Exeggutor",
+    "Cubone",
+    "Marowak",
+    "Hitmonlee",
+    "Hitmonchan",
+    "Lickitung",
+
 ]
 
 export {pkmn_list};
