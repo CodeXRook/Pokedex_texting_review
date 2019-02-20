@@ -207,6 +207,17 @@ const pkmn_list =[
     "Dunsparce",
     "Gligar",
     "Steelix",
+    "Snubbull",
+    "Grandbull",
+    "Qwilfish",
+    "Scizor",
+    "Shuckle",
+    "Heracross",
+    "Sneasel",
+    "Teddiursa",
+    "Ursaring",
+    "Slugma",
+    "Magcargo",
 ]
 
 export {pkmn_list};
