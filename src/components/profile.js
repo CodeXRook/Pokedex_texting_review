@@ -126,8 +126,11 @@ class Profile extends Component {
                             {this.typeWord()}
                         </div>
                     </div>
-                    
+                    <div className='sprite-col'>
+                            {this.spritesImg()}
+                    </div>
                 </div>
+                <h1 className='bs-header'>Base Stats</h1>
            </div>
 
        )
