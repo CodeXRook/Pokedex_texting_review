@@ -118,6 +118,10 @@ class Profile extends Component {
                 <h1 className='home-button' onClick={this.props.onClick}>Home >> </h1>
                 <h1 className='pk-name'>{this.state.name}</h1>
                 <h1 className='name-header'>#{this.state.id} - {this.state.name}</h1>
+
+                <div className='img-container'>
+                
+                </div>
            </div>
 
        )
