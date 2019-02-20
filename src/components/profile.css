@@ -36,3 +36,8 @@
 .pk.img-col{
     flex: 1;
 }
+
+.pk-img{
+    display: inline-block;
+    width: 200px;
+}
