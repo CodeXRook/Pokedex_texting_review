@@ -114,7 +114,9 @@ class Profile extends Component {
    render () {
        return (
            <>
-           
+           <div className='p-container'>
+           </div>
+
        )
    } 
 })
