@@ -137,10 +137,14 @@ class Profile extends Component {
                 </div>
 
                 <h1 className='bs-header'>Moves</h1>
-           </div>
+                <div className= 'm-container'>
+                    {this.moveButton()}
+                </div>
 
-       )
+           </div>
+        </>
+       );
    } 
-})
-    }
-}
+});
+    
+
