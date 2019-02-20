@@ -74,7 +74,12 @@ class Profile extends Component {
         const spritesImg = this.state.sprites.map((e, i) => {
             return <img className= 'sprite-img' src={e} key={i} alt={this.state.name}></img>
         });
+
         return spritesImg;
+    }
+
+    typeWor () {
+        const typeword =
     }
         })
     }
