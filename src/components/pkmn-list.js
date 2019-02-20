@@ -317,6 +317,16 @@ const pkmn_list =[
     "Gulpin",
     "Swalot",
     "Carvanha",
+    "Sharpedo",
+    "Wailmer",
+    "Wailord",
+    "Numel",
+    "Camerupt",
+    "Torkoal",
+    "Spoink",
+    "Grumpig",
+    "Spinda",
+    "Trapinch",
 ]
 
 export {pkmn_list};
