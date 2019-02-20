@@ -19,6 +19,18 @@ class Profile extends Component {
 
     getPK = (name) => {
         let pkUrl = `https://pokeapi.co/api/v2/pokemon/${name}`;
-        
+        Axios.get(pkUrl)
+        .then(response => {
+            const {
+              name,
+              id,
+              sprites,
+              moves,
+              types,
+              stats,
+            } = response.data;
+            
+            }
+        })
     }
 }
