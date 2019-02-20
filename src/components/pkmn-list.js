@@ -386,6 +386,18 @@ const pkmn_list =[
     "Jirachi",
     "Deoxys",
     "Turwig",
+    "Grotle",
+    "Torterra",
+    "Chimchar",
+    "Monferno",
+    "Infernape",
+    "Piplup",
+    "Prinplup",
+    "Empoleon",
+    "Starly",
+    "Staravia",
+    "Staraptor",
+    "Bidoof",
 ]
 
 export {pkmn_list};
