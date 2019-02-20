@@ -93,15 +93,22 @@ class Profile extends Component {
         return moveButton;
 
     }
-
+                                       /* Why the to commas? */
     bsCard () {
         const bsCard = this.state.baseStats.map((v,i,) => {
         let key = v.statName;
         let value = v.val;
             return(
                 <>
-            )     <div key                               /* Why the to commas? */
-        })
+            )     <div key={i} className= 'bs-card'>
+                      <h1 className= 'bs-info'>{key}</h1>
+                      <h2 className= 'bs-num'>{value}</h2>
+            </div> 
+            </> 
+          );                            
+       });
+
+       return bsCard
     }
         })
     }
