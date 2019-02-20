@@ -86,7 +86,7 @@ class Profile extends Component {
         return typeWord;
     }
 
-    moveButon () {
+    moveButton () {
         const moveButton = this.state.moves.map((v,i) => {
             return <h1 key={i} className='m-button'>{v.name}</h1>
         });
@@ -94,7 +94,15 @@ class Profile extends Component {
 
     }
 
-    bsCard ()
+    bsCard () {
+        const bsCard = this.state.baseStats.map((v,i,) => {
+        let key = v.statName;
+        let value = v.val;
+            return(
+                <>
+            )     <div key                               /* Why the to commas? */
+        })
+    }
         })
     }
 }
