@@ -156,7 +156,7 @@ const pkmn_list =[
     "Cyndaquil",
     "Quilava",
     "Typhlosion",
-    "Totdile",
+    "Totodile",
     "Croconaw",
 
 
