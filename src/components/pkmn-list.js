@@ -345,6 +345,19 @@ const pkmn_list =[
     "Claydol",
     "Lileep",
     "Cradily",
+    "Anorith",
+    "Armaldo",
+    "Feebas",
+    "Milotic",
+    "Castform",
+    "Kecleon",
+    "Shuppet",
+    "Banette",
+    "Duskull",
+    "Dusclops",
+    "Tropius",
+    "Chimecho",
+    "Absol",
 ]
 
 export {pkmn_list};
