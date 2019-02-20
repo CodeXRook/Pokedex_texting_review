@@ -119,5 +119,7 @@
 }
 
 .bs-num{
-    
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
 }
