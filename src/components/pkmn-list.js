@@ -337,6 +337,14 @@ const pkmn_list =[
     "Seviper",
     "Lunatone",
     "Solrock",
+    "Barboach",
+    "Whiscash",
+    "Corphish",
+    "Crawdaunt",
+    "Baltoy",
+    "Claydol",
+    "Lileep",
+    "Cradily",
 ]
 
 export {pkmn_list};
