@@ -398,6 +398,7 @@ const pkmn_list =[
     "Staravia",
     "Staraptor",
     "Bidoof",
+    
 ]
 
 export {pkmn_list};
