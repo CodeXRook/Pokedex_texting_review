@@ -135,6 +135,8 @@ class Profile extends Component {
                 <div className='bs-container'>
                         {this.bsCard()}
                 </div>
+
+                <h1 className='bs-header'>Moves</h1>
            </div>
 
        )
