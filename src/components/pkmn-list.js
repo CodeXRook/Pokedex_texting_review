@@ -107,6 +107,20 @@ const pkmn_list =[
     "Hitmonlee",
     "Hitmonchan",
     "Lickitung",
+    "Koffing",
+    "Weezing",
+    "Rhyhorn",
+    "Rhydon",
+    "Chansey",
+    "Tangela",
+    "Kangaskhan",
+    "Horsea",
+    "Seadra",
+    "Goldeen",
+    "Seaking",
+    "Staryu",
+    "Starmine",
+    "Mr. Mime",
 
 ]
 
