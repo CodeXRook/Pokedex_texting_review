@@ -45,6 +45,7 @@ class App extends Component {
 
           return {image, name, number };
         })
+
         const pkList = this.state.poke_list.concat(dataList);
         this.setState({poke_list: pkList});
       };
@@ -52,8 +53,8 @@ class App extends Component {
     .catch(err => {
       console.log(err);
     })
-  }
 
+  }
 
   toggleProfile = (name) =>{
     this.setState({activeIndex: name});
@@ -63,25 +64,25 @@ class App extends Component {
     this.setState({activeIndex: null});
   }
 
-  ComponentDidMount () {
+  componentDidMount () {
     this.getlist();
   }
 
   componentDidUpdate (prevProps, prevState) {
-    console.log('this was previos state', prevState)
+    console.log('this was previous state', prevState)
     console.log('this is current state', this.state)
   }
 
   render () {
     return(
       <>
-      <SearchBar click ={this.toggleProfile} />
+      <SearchBar click ={this.toggleProfile}/>
 
       {! this.state.activeIndex ? 
-      <Homepage click ={this.toggleProfile} data= {this.state.poke_list} onClick={this.getlist}/>
-      <profile name = {this.state.activeIndex} onClick ={this.toggleHomePage}/>}
+      <Homepage click={this.toggleProfile} data= {this.state.poke_list} onClick={this.getlist}/>
+      :
+      <Profile name= {this.state.activeIndex} onClick ={this.toggleHomePage}/>}
       </>
-    }
     );
   }
 }
