@@ -78,8 +78,12 @@ class Profile extends Component {
         return spritesImg;
     }
 
-    typeWor () {
-        const typeword =
+    typeWord () {
+        const typeword = this.state.types.map((e, i) => {
+            return <h3 key ={i} className={['type-text'].concat(e).join(' ')}>{e}</h3>
+        });
+        
+        return typeWord;
     }
         })
     }
