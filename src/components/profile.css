@@ -45,7 +45,13 @@
     margin-top: 20px;
 }
 
+.types{
+    display:flex
+}
+
 .type-text{
     padding: 4% 4%;
     color: white;
+    border-radius: 10px;
 }
+
