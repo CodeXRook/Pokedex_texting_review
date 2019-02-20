@@ -182,6 +182,11 @@ const pkmn_list =[
     "Ampharos",
     "Bellossom",
     "Marill",
+    "Azumarill",
+    "Sudowoodo",
+    "Politoed",
+    "Hoppip",
+    "Skiploom",
 ]
 
 export {pkmn_list};
