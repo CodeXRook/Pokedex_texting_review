@@ -48,7 +48,6 @@ class Profile extends Component {
                 const name = e.move.name;
 
 
-
                 return {name};
             });
             
@@ -59,8 +58,11 @@ class Profile extends Component {
                 image: image,
                 sprites: spritesArr,
                 types: typesArr,
-                baseStats: baseStatsArr
-
+                baseStats: baseStatsArr,
+                moves: movesArr});
+            })
+            .catch(err=> {
+                console.log(err)
             })
             }
         })
