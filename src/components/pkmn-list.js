@@ -218,6 +218,12 @@ const pkmn_list =[
     "Ursaring",
     "Slugma",
     "Magcargo",
+    "Swinub",
+    "Piloswine",
+    "Corsola",
+    "Remoraid",
+    "Octillery",
+    "Delibird",
 ]
 
 export {pkmn_list};
