@@ -11,7 +11,11 @@ class Profile extends Component {
             id: 0,
             image: '',
             sprites: [],
-            
-        }
+            types: [],
+            baseStats: [],
+            moves: []
+          }
     }
+
+    
 }
