@@ -32,3 +32,7 @@
     margin: 30px 30px;
     padding: 0 100px;
 }
+
+.pk.img-col{
+    flex: 1;
+}
