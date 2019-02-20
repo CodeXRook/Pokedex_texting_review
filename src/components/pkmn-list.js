@@ -308,6 +308,15 @@ const pkmn_list =[
     "Meditite",
     "Medicham",
     "Electrike",
+    "Manectric",
+    "Plusle",
+    "Minum",
+    "Volbeat",
+    "Illumise",
+    "Roselia",
+    "Gulpin",
+    "Swalot",
+    "Carvanha",
 ]
 
 export {pkmn_list};
