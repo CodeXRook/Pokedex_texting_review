@@ -327,6 +327,9 @@ const pkmn_list =[
     "Grumpig",
     "Spinda",
     "Trapinch",
+    "Vibrava",
+    "Flygon",
+    "Cacnea",
 ]
 
 export {pkmn_list};
