@@ -86,4 +86,12 @@
 .bs-header{
     margin: 0px 30px;
     color: #3a3a3a;
+    text-align: left;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 3px;
+    text-transform: capitalize;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-storke-color: #3a3a3a;
 }
