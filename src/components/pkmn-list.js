@@ -288,6 +288,8 @@ const pkmn_list =[
     "Slakoth",
     "Vigoroth",
     "Slacking",
+    "Ninjask",
+    ""
 ]
 
 export {pkmn_list};
