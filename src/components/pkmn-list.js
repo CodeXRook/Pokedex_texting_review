@@ -145,6 +145,19 @@ const pkmn_list =[
     "Articuno",
     "Zapdos",
     "Moltres",
+    "Dratini",
+    "Dragonair",
+    "Dragonite",
+    "Mewtwo",
+    "Mew",
+    "Chikprita",
+    "Bayleef",
+    "Meganium",
+    "Cyndaquil",
+    "Quilava",
+    "Typhlosion",
+    "Totdile",
+    "Croconaw",
 
 
 ]
