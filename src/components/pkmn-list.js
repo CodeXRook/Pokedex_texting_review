@@ -448,6 +448,20 @@ const pkmn_list =[
     "Riolu",
     "Lucario",
     "Hippopotas",
+    "Hippowdon",
+    "Skorupi",
+    "Drapion",
+    "Croagunk",
+    "Toxicroak",
+    "Carnivine",
+    "Finneon",
+    "Lumineon",
+    "Mantyke",
+    "Snover",
+    "Abomasnow",
+    "Weavile",
+    "Magnezone",
+    "Lickilicky",
 
 ]
 
