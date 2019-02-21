@@ -538,6 +538,10 @@ const pkmn_list =[
     "Seismitoad",
     "Throh",
     "Sawk",
+    "Sewaddle",
+    "Swadloon",
+    "Leavanny",
+    "Venipede",
 
 ]
 
