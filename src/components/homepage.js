@@ -16,4 +16,10 @@ const padNum = (num)=>{
 
 const Homepage = props => {
     const {data} = props;
+    const ListButton = data.map((e, i) => {
+        return (
+            <>
+            <div key={i}
+        )
+    })
 }
