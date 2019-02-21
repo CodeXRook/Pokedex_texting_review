@@ -412,6 +412,16 @@ const pkmn_list =[
     "Bastiodon",
     "Burmy",
     "Wormadam",
+    "Mothin",
+    "Combee",
+    "Vespiquen",
+    "Pachirisu",
+    "Buizel",
+    "Floatzel",
+    "Cherubi",
+    "Cherrim",
+    "Shellos",
+    "Gastrodon",
 ]
 
 export {pkmn_list};
