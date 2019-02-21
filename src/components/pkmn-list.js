@@ -422,6 +422,18 @@ const pkmn_list =[
     "Cherrim",
     "Shellos",
     "Gastrodon",
+    "Ambipom",
+    "Drifloon",
+    "Drifblim",
+    "Buneary",
+    "Lopunny",
+    "Mismagius",
+    "Honchkrow",
+    "Glameow",
+    "Purugly",
+    "Chingling",
+    "Stunky",
+    "Skuntank",
 ]
 
 export {pkmn_list};
