@@ -9,5 +9,7 @@ const padNum = (num)=>{
     else if (num < 100){
         return '0' + num
     }
-    
+    else if (num <1000){
+        return num
+    }
 }
