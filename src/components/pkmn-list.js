@@ -509,6 +509,15 @@ const pkmn_list =[
     "Stoutland",
     "Purrloin",
     "Liepard",
+    "Pansage",
+    "Simisage",
+    "Pansear",
+    "Simisear",
+    "Panpour",
+    "Simipour",
+    "Munna",
+    "Musharna",
+    "Pidove",
 
 ]
 
