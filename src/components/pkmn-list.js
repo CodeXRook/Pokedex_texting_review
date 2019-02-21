@@ -518,6 +518,9 @@ const pkmn_list =[
     "Munna",
     "Musharna",
     "Pidove",
+    "Tranquill",
+    "Unfezant",
+    "Blitzle",
 
 ]
 
