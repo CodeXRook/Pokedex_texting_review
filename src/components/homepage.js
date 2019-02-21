@@ -30,5 +30,14 @@ const Homepage = props => {
        );
     });
 
-    
+
+    return (
+        <React.Fragment>
+            {ListButton}
+            <div onClick={() => {props.onClick()}} className="red-btn">LOAD MORE</div>
+        </React.Fragment>
+    )
+
 }
+
+export { Homepage };
