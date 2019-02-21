@@ -131,3 +131,13 @@
     justify-content: flex-star;
     margin: 10px 30px;
 }
+
+.m-button {
+    margin: 10px 5px;
+    padding: 10px;
+    border:1px black solid;
+    border-radius: 10PX;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
