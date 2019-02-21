@@ -19,7 +19,12 @@ const Homepage = props => {
     const ListButton = data.map((e, i) => {
         return (
             <>
-            <div key={i}
+            <div key={i} onClick={() => props.click(e.name)} className="flex-container">
+            <div className="sub-container">
+            <img className="image" alt="icon" src={e.image}></img>
+            <span
+            </div>
+            </div>
         )
     })
 }
