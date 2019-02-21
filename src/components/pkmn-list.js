@@ -498,6 +498,17 @@ const pkmn_list =[
     "Serperior",
     "Tepig",
     "Pignite",
+    "Emboar",
+    "Oshawott",
+    "Dewott",
+    "Samurott",
+    "Patrat",
+    "Watchog",
+    "Lillipup",
+    "Herdier",
+    "Stoutland",
+    "Purrloin",
+    "Liepard",
 
 ]
 
