@@ -126,4 +126,8 @@
 
 .m-container{
     display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    justify-content: flex-star;
+    margin: 10px 30px;
 }
