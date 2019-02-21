@@ -546,7 +546,15 @@ const pkmn_list =[
     "Scolipede",
     "Cottonee",
     "Whimsicott",
-    
+    "Petilil",
+    "Lilligant",
+    "Basculin",
+    "Sandile",
+    "Krokorok",
+    "Krookodile",
+    "Darumaka",
+    "Darmanitan",
+
 
 ]
 
