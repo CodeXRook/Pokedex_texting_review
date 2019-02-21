@@ -462,6 +462,16 @@ const pkmn_list =[
     "Weavile",
     "Magnezone",
     "Lickilicky",
+    "Rhyperior",
+    "Tangrowth",
+    "Electivire",
+    "Magmortar",
+    "Togekiss",
+    "Yanmega",
+    "Leafeon",
+    "Glaceon",
+    "Gliscor",
+    "Mamoswine",
 
 ]
 
