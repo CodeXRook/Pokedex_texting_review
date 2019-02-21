@@ -22,7 +22,7 @@ const Homepage = props => {
             <div key={i} onClick={() => props.click(e.name)} className="flex-container">
             <div className="sub-container">
             <img className="image" alt="icon" src={e.image}></img>
-            <span
+            <span className="name">{e.name}</span>
             </div>
             </div>
         )
