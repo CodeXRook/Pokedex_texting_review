@@ -521,6 +521,10 @@ const pkmn_list =[
     "Tranquill",
     "Unfezant",
     "Blitzle",
+    "Zebstrika",
+    "Roggenrola",
+    "Boldore",
+    "Gigalith",
 
 ]
 
