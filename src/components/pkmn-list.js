@@ -542,6 +542,11 @@ const pkmn_list =[
     "Swadloon",
     "Leavanny",
     "Venipede",
+    "Whirlipede",
+    "Scolipede",
+    "Cottonee",
+    "Whimsicott",
+    
 
 ]
 
