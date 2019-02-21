@@ -434,6 +434,13 @@ const pkmn_list =[
     "Chingling",
     "Stunky",
     "Skuntank",
+    "Bronzor",
+    "Bronzong",
+    "Bonsly",
+    "Mime Jr.",
+    "Happiny",
+    "Chatot",
+    
 ]
 
 export {pkmn_list};
