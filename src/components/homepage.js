@@ -17,14 +17,18 @@ const padNum = (num)=>{
 const Homepage = props => {
     const {data} = props;
     const ListButton = data.map((e, i) => {
-        return (
-            <>
-            <div key={i} onClick={() => props.click(e.name)} className="flex-container">
-            <div className="sub-container">
+     return (
+     <>
+        <div key={i} onClick={() => props.click(e.name)} className="flex-container">
+           <div className="sub-container">
             <img className="image" alt="icon" src={e.image}></img>
             <span className="name">{e.name}</span>
-            </div>
-            </div>
-        )
-    })
+           </div>
+          <div className="id">#{padNum(e.number)}</div>
+         </div>
+         </>
+       );
+    });
+
+    
 }
