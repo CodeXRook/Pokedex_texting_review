@@ -398,7 +398,20 @@ const pkmn_list =[
     "Staravia",
     "Staraptor",
     "Bidoof",
-    
+    "Bibarel",
+    "Kricketot",
+    "kricketune",
+    "Shinx",
+    "Luxio",
+    "Luxray",
+    "Budew",
+    "Roserade",
+    "Cranidos",
+    "Rampardos",
+    "Shieldon",
+    "Bastiodon",
+    "Burmy",
+    "Wormadam",
 ]
 
 export {pkmn_list};
