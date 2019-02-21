@@ -494,6 +494,10 @@ const pkmn_list =[
     "Arceus",
     "Victini",
     "Snivy",
+    "Servine",
+    "Serperior",
+    "Tepig",
+    "Pignite",
 
 ]
 
