@@ -24,4 +24,5 @@
 .red-btn{
     background-color: red;
     border: 1px solid black;
+    border-radius: 5px;
 }
