@@ -530,6 +530,14 @@ const pkmn_list =[
     "Drilbur",
     "Excardrill",
     "Audino",
+    "Timburr",
+    "Gurdurr",
+    "Conkeldurr",
+    "Tympole",
+    "Palpitoad",
+    "Seismitoad",
+    "Throh",
+    "Sawk",
 
 ]
 
