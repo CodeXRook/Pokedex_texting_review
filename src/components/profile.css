@@ -123,3 +123,7 @@
     font-weight: bold;
     font-size: 30px;
 }
+
+.m-container{
+    display: flex;
+}
