@@ -440,7 +440,15 @@ const pkmn_list =[
     "Mime Jr.",
     "Happiny",
     "Chatot",
-    
+    "Spiritomb",
+    "Gible",
+    "Gabite",
+    "Garchomp",
+    "Munchlax",
+    "Riolu",
+    "Lucario",
+    "Hippopotas",
+
 ]
 
 export {pkmn_list};
