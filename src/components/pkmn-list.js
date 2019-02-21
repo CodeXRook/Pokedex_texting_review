@@ -525,6 +525,11 @@ const pkmn_list =[
     "Roggenrola",
     "Boldore",
     "Gigalith",
+    "Woobat",
+    "Swootbat",
+    "Drilbur",
+    "Excardrill",
+    "Audino",
 
 ]
 
