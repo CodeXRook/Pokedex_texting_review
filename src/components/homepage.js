@@ -13,3 +13,7 @@ const padNum = (num)=>{
         return num
     }
 }
+
+const Homepage = props => {
+    const {data} = props;
+}
