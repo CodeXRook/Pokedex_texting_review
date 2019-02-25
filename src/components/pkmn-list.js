@@ -771,6 +771,7 @@ const pkmn_list =[
     "Palossand",
     "Pyukumuku",
     "Type: Null",
+    "Silvally",
 
     
 
