@@ -734,6 +734,7 @@ const pkmn_list =[
     "Toucannon",
     "Yungoos",
     "Gumshoos",
+    "Grubbin",
 
     
 
