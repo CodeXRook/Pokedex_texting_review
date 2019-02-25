@@ -745,6 +745,7 @@ const pkmn_list =[
     "Rockruff",
     "Lycanroc",
     "Wishiwashi",
+    "Mareanie",
 
     
 
