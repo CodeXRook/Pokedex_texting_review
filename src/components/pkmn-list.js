@@ -556,6 +556,7 @@ const pkmn_list =[
     "Darmanitan",
     "Maractus",
     "Dwebble",
+    "Crustle",
 
 
 ]
