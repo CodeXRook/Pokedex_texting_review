@@ -747,6 +747,7 @@ const pkmn_list =[
     "Wishiwashi",
     "Mareanie",
     "Toxapex",
+    "Mudbray",
 
     
 
