@@ -763,6 +763,7 @@ const pkmn_list =[
     "Steenee",
     "Tsareena",
     "Comfey",
+    "Oranguru",
 
     
 
