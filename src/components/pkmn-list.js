@@ -751,6 +751,7 @@ const pkmn_list =[
     "Mudsdale",
     "Dewpider",
     "Araquanid",
+    "Fomantis",
 
     
 
