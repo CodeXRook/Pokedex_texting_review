@@ -630,6 +630,7 @@ const pkmn_list =[
     "Vullaby",
     "Mandibuzz",
     "Heatmor",
+    "Durant",
     
 
 
