@@ -762,6 +762,7 @@ const pkmn_list =[
     "Bounsweet",
     "Steenee",
     "Tsareena",
+    "Comfey",
 
     
 
