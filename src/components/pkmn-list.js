@@ -609,6 +609,7 @@ const pkmn_list =[
     "Lampent",
     "Chandelure",
     "Axew",
+    "Fraxure",
 
 
 
