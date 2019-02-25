@@ -713,6 +713,7 @@ const pkmn_list =[
     "Bergmite",
     "Avalugg",
     "Noibat",
+    "Noivern",
 
     
 
