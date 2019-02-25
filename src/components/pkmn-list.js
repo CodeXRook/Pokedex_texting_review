@@ -711,6 +711,7 @@ const pkmn_list =[
     "Pumpkaboo",
     "Gourgeist",
     "Bergmite",
+    "Avalugg",
 
     
 
