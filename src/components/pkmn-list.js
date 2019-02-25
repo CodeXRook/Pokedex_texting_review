@@ -722,6 +722,7 @@ const pkmn_list =[
     "Volcanion",
     "Rowlet",
     "Dartrix",
+    "Decidueye",
 
     
 
