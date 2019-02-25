@@ -580,6 +580,7 @@ const pkmn_list =[
     "Reuniclus",
     "Ducklett",
     "Swanna",
+    "Vanillite",
 
 
 ]
