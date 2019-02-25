@@ -31,7 +31,7 @@ class App extends Component {
         const number = i + 1 + this.state.poke_list.length;
         const image = `https://img.pokemondb.net/sprites/sun-moon/icon/${name}.png`;
 
-        return { image, name, number };
+        return {image, name, number };
         });
 
         const pkList = this.state.poke_list.concat(dataList);

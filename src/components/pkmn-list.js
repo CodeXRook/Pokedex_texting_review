@@ -554,6 +554,8 @@ const pkmn_list =[
     "Krookodile",
     "Darumaka",
     "Darmanitan",
+    "Maractus",
+    
 
 
 ]
