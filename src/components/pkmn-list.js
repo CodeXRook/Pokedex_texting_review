@@ -657,6 +657,7 @@ const pkmn_list =[
     "Froakie",
     "Frogadier",
     "Greninja",
+    "Bunnelby",
     
 
 
