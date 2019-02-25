@@ -707,6 +707,7 @@ const pkmn_list =[
     "Goodra",
     "Klefki",
     "Phantump",
+    "Trevenant",
 
     
 
