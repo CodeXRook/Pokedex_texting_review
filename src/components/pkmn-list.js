@@ -732,6 +732,7 @@ const pkmn_list =[
     "Pikipek",
     "Trumbeak",
     "Toucannon",
+    "Yungoos",
 
     
 
