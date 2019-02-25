@@ -682,6 +682,7 @@ const pkmn_list =[
     "Aegislash",
     "Spritzee",
     "Aromatisse",
+    "Swirlix",
 
     
 
