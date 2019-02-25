@@ -750,6 +750,7 @@ const pkmn_list =[
     "Mudbray",
     "Mudsdale",
     "Dewpider",
+    "Araquanid",
 
     
 
