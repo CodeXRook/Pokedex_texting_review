@@ -604,6 +604,7 @@ const pkmn_list =[
     "Eelektrik",
     "Eelektross",
     "Elgyem",
+    "Beheeyem",
 
 
 
