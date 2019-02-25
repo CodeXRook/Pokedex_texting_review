@@ -579,6 +579,7 @@ const pkmn_list =[
     "Duosion",
     "Reuniclus",
     "Ducklett",
+    "Swanna",
 
 
 ]
