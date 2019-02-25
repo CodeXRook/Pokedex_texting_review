@@ -659,6 +659,7 @@ const pkmn_list =[
     "Greninja",
     "Bunnelby",
     "Diggersby",
+    "Fletchling",
     
 
 
