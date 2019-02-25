@@ -586,6 +586,7 @@ const pkmn_list =[
     "Deerling",
     "Sawsbuck",
     "Emolga",
+    "Karrablast",
 
 
 ]
