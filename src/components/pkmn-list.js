@@ -702,6 +702,7 @@ const pkmn_list =[
     "Hawlucha",
     "Dedenne",
     "Carbink",
+    "Goomy",
 
     
 
