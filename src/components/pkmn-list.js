@@ -717,6 +717,7 @@ const pkmn_list =[
     "Xerneas",
     "Yveltal",
     "Zygarde",
+    "Diancie",
 
     
 
