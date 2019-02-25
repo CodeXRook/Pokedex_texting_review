@@ -593,6 +593,7 @@ const pkmn_list =[
     "Frillish",
     "Jellicent",
     "Alomomola",
+    "Joltik",
 
 
 ]
