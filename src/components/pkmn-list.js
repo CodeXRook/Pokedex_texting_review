@@ -601,6 +601,8 @@ const pkmn_list =[
     "Klang",
     "Klinklang",
     "Tynamo",
+    "Eelektrik",
+    
 
 
 ]
