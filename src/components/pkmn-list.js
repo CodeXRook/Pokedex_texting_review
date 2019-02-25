@@ -731,6 +731,7 @@ const pkmn_list =[
     "Primarina",
     "Pikipek",
     "Trumbeak",
+    "Toucannon",
 
     
 
