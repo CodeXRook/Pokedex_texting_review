@@ -566,6 +566,7 @@ const pkmn_list =[
     "Carracosta",
     "Archen",
     "Archeops",
+    "Trubbish",
 
 
 ]
