@@ -623,6 +623,7 @@ const pkmn_list =[
     "Golett",
     "Golurk",
     "Pawniard",
+    "Bisharp",
     
 
 
