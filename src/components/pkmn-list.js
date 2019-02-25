@@ -662,6 +662,7 @@ const pkmn_list =[
     "Fletchling",
     "Fletchinder",
     "Talonflame",
+    "Scatterbug",
     
 
 
