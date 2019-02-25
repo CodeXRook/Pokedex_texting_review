@@ -740,6 +740,7 @@ const pkmn_list =[
     "Crabrawler",
     "Crabominable",
     "Oricorio",
+    "Cutiefly",
 
     
 
