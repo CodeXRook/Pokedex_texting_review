@@ -563,6 +563,8 @@ const pkmn_list =[
     "Yamask",
     "Cofagrigus",
     "Tirtouga",
+    "Carracosta",
+    "Archen",
 
 
 ]
