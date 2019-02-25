@@ -584,6 +584,7 @@ const pkmn_list =[
     "Vanillish",
     "Vanilluxe",
     "Deerling",
+    "Sawsbuck",
 
 
 ]
