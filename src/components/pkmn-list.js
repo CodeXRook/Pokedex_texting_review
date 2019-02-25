@@ -612,6 +612,7 @@ const pkmn_list =[
     "Fraxure",
     "Haxorus",
     "Cubchoo",
+    "Beartic",
 
 
 
