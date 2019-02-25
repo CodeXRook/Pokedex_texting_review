@@ -729,6 +729,7 @@ const pkmn_list =[
     "Popplio",
     "Brionne",
     "Primarina",
+    "Pikipek",
 
     
 
