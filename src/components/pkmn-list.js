@@ -571,6 +571,7 @@ const pkmn_list =[
     "Zorua",
     "Zoroark",
     "Minccino",
+    "Cinccino",
 
 
 ]
