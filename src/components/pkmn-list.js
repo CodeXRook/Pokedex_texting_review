@@ -587,6 +587,8 @@ const pkmn_list =[
     "Sawsbuck",
     "Emolga",
     "Karrablast",
+    "Escavalier",
+    "Foongus",
 
 
 ]
