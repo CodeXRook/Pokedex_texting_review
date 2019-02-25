@@ -730,6 +730,7 @@ const pkmn_list =[
     "Brionne",
     "Primarina",
     "Pikipek",
+    "Trumbeak",
 
     
 
