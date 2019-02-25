@@ -653,6 +653,7 @@ const pkmn_list =[
     "Chesnaught",
     "Fennekin",
     "Braixen",
+    "Delphox",
     
 
 
