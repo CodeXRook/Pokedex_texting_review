@@ -607,6 +607,8 @@ const pkmn_list =[
     "Beheeyem",
     "Litwick",
     "Lampent",
+    "Chandelure",
+
 
 
 
