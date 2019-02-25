@@ -768,6 +768,7 @@ const pkmn_list =[
     "Wimpod",
     "Golisopod",
     "Sandygast",
+    "Palossand",
 
     
 
