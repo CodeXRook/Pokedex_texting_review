@@ -710,6 +710,7 @@ const pkmn_list =[
     "Trevenant",
     "Pumpkaboo",
     "Gourgeist",
+    "Bergmite",
 
     
 
