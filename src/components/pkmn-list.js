@@ -631,6 +631,7 @@ const pkmn_list =[
     "Mandibuzz",
     "Heatmor",
     "Durant",
+    "Deino",
     
 
 
