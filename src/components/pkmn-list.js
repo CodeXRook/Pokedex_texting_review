@@ -634,6 +634,7 @@ const pkmn_list =[
     "Deino",
     "Zweilous",
     "Hydreigon",
+    "Larvesta",
     
 
 
