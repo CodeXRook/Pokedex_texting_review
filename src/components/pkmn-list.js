@@ -743,6 +743,7 @@ const pkmn_list =[
     "Cutiefly",
     "Ribombee",
     "Rockruff",
+    "Lycanroc",
 
     
 
