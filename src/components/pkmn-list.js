@@ -687,6 +687,7 @@ const pkmn_list =[
     "Inkay",
     "Malamar",
     "Binacle",
+    "Barbaracle",
 
     
 
