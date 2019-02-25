@@ -600,6 +600,7 @@ const pkmn_list =[
     "Klink",
     "Klang",
     "Klinklang",
+    "Tynamo",
 
 
 ]
