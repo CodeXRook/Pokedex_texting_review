@@ -689,6 +689,7 @@ const pkmn_list =[
     "Binacle",
     "Barbaracle",
     "Skrelp",
+    "Dragalge",
 
     
 
