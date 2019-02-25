@@ -724,6 +724,7 @@ const pkmn_list =[
     "Dartrix",
     "Decidueye",
     "Litten",
+    "Torracat",
 
     
 
