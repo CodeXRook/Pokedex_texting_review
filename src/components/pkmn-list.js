@@ -752,6 +752,7 @@ const pkmn_list =[
     "Dewpider",
     "Araquanid",
     "Fomantis",
+    "Lurantis",
 
     
 
