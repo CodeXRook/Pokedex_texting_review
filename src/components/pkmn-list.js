@@ -618,6 +618,7 @@ const pkmn_list =[
     "Accelgor",
     "Stunfisk",
     "Mienfoo",
+    "Mienshao",
     
 
 
