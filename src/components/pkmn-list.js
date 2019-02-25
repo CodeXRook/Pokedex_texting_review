@@ -753,6 +753,7 @@ const pkmn_list =[
     "Araquanid",
     "Fomantis",
     "Lurantis",
+    "Morelull",
 
     
 
