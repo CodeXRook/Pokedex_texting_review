@@ -676,6 +676,7 @@ const pkmn_list =[
     "Pangoro",
     "Furfrou",
     "Espurr",
+    "Meowstic",
 
     
 
