@@ -708,6 +708,7 @@ const pkmn_list =[
     "Klefki",
     "Phantump",
     "Trevenant",
+    "Pumpkaboo",
 
     
 
