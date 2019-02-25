@@ -721,6 +721,7 @@ const pkmn_list =[
     "Hoopa",
     "Volcanion",
     "Rowlet",
+    "Dartrix",
 
     
 
