@@ -759,6 +759,7 @@ const pkmn_list =[
     "Salazzle",
     "Stufful",
     "Bewear",
+    "Bounsweet",
 
     
 
