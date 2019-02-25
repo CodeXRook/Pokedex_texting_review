@@ -626,6 +626,7 @@ const pkmn_list =[
     "Bisharp",
     "Bouffalant",
     "Rufflet",
+    "Braviary",
     
 
 
