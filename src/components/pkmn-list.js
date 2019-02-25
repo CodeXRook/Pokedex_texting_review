@@ -650,6 +650,7 @@ const pkmn_list =[
     "Genesect",
     "Chespin",
     "Quilladin",
+    "Chesnaught",
     
 
 
