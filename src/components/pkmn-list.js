@@ -649,6 +649,7 @@ const pkmn_list =[
     "Meloetta",
     "Genesect",
     "Chespin",
+    "Quilladin",
     
 
 
