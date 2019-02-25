@@ -749,6 +749,7 @@ const pkmn_list =[
     "Toxapex",
     "Mudbray",
     "Mudsdale",
+    "Dewpider",
 
     
 
