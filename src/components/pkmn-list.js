@@ -684,6 +684,7 @@ const pkmn_list =[
     "Aromatisse",
     "Swirlix",
     "Slurpuff",
+    "Inkay",
 
     
 
