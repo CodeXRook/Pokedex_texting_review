@@ -742,6 +742,7 @@ const pkmn_list =[
     "Oricorio",
     "Cutiefly",
     "Ribombee",
+    "Rockruff",
 
     
 
