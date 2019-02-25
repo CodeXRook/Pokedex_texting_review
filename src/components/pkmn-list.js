@@ -615,6 +615,7 @@ const pkmn_list =[
     "Beartic",
     "Cryogonal",
     "Shelmet",
+    "Accelgor",
 
 
 
