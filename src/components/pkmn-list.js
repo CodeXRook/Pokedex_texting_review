@@ -699,6 +699,7 @@ const pkmn_list =[
     "Amaura",
     "Aurorus",
     "Sylveon",
+    "Hawlucha",
 
     
 
