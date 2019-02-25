@@ -616,6 +616,7 @@ const pkmn_list =[
     "Cryogonal",
     "Shelmet",
     "Accelgor",
+    "Stunfisk",
 
 
 
