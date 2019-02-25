@@ -712,6 +712,7 @@ const pkmn_list =[
     "Gourgeist",
     "Bergmite",
     "Avalugg",
+    "Noibat",
 
     
 
