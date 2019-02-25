@@ -576,6 +576,7 @@ const pkmn_list =[
     "Gothorita",
     "Gothitelle",
     "Solosis",
+    "Duosion",
 
 
 ]
