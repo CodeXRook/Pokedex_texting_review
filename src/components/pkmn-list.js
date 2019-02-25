@@ -665,6 +665,7 @@ const pkmn_list =[
     "Scatterbug",
     "Spewpa",
     "Vivillon",
+    "Litleo",
     
 
 
