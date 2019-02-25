@@ -760,6 +760,7 @@ const pkmn_list =[
     "Stufful",
     "Bewear",
     "Bounsweet",
+    "Steenee",
 
     
 
