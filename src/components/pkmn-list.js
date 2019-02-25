@@ -590,6 +590,7 @@ const pkmn_list =[
     "Escavalier",
     "Foongus",
     "Amoonguss",
+    "Frillish",
 
 
 ]
