@@ -595,6 +595,7 @@ const pkmn_list =[
     "Alomomola",
     "Joltik",
     "Galvantula",
+    "Ferroseed",
 
 
 ]
