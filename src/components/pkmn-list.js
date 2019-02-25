@@ -638,6 +638,12 @@ const pkmn_list =[
     "Volcarona",
     "Cobalion",
     "Terrakion",
+    "Virizion",
+    "Tornadus",
+    "Thundurus",
+    "Reshiram",
+    "Zekrom",
+    "Landorus",
     
 
 
