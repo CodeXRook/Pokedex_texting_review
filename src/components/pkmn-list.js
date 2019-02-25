@@ -675,6 +675,7 @@ const pkmn_list =[
     "Pancham",
     "Pangoro",
     "Furfrou",
+    "Espurr",
 
     
 
