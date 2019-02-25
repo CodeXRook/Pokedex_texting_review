@@ -613,6 +613,7 @@ const pkmn_list =[
     "Haxorus",
     "Cubchoo",
     "Beartic",
+    "Cryogonal",
 
 
 
