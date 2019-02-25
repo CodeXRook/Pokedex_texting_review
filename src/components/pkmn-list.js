@@ -720,6 +720,7 @@ const pkmn_list =[
     "Diancie",
     "Hoopa",
     "Volcanion",
+    "Rowlet",
 
     
 
