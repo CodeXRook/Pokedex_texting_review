@@ -570,6 +570,7 @@ const pkmn_list =[
     "Garbodor",
     "Zorua",
     "Zoroark",
+    "Minccino",
 
 
 ]
