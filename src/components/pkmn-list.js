@@ -693,6 +693,7 @@ const pkmn_list =[
     "Clauncher",
     "Clawitzer",
     "Helioptile",
+    "Heliolisk",
 
     
 
