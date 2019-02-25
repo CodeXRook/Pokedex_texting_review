@@ -757,6 +757,7 @@ const pkmn_list =[
     "Shiinotic",
     "Salandit",
     "Salazzle",
+    "Stufful",
 
     
 
