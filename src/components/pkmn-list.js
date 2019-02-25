@@ -690,6 +690,7 @@ const pkmn_list =[
     "Barbaracle",
     "Skrelp",
     "Dragalge",
+    "Clauncher",
 
     
 
