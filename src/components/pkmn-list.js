@@ -606,6 +606,7 @@ const pkmn_list =[
     "Elgyem",
     "Beheeyem",
     "Litwick",
+    "Lampent",
 
 
 
