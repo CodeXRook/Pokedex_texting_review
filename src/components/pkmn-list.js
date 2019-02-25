@@ -558,6 +558,7 @@ const pkmn_list =[
     "Dwebble",
     "Crustle",
     "Scraggy",
+    "Scrafty",
 
 
 ]
