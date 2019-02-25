@@ -620,6 +620,7 @@ const pkmn_list =[
     "Mienfoo",
     "Mienshao",
     "Druddigon",
+    "Golett",
     
 
 
