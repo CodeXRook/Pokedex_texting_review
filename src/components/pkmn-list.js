@@ -598,6 +598,7 @@ const pkmn_list =[
     "Ferroseed",
     "Ferrothorn",
     "Klink",
+    "Klang",
 
 
 ]
