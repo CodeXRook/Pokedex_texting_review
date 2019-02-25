@@ -628,6 +628,7 @@ const pkmn_list =[
     "Rufflet",
     "Braviary",
     "Vullaby",
+    "Mandibuzz",
     
 
 
