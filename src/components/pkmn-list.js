@@ -573,6 +573,7 @@ const pkmn_list =[
     "Minccino",
     "Cinccino",
     "Gothita",
+    "Gothorita",
 
 
 ]
