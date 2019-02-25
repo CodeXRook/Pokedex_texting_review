@@ -725,6 +725,7 @@ const pkmn_list =[
     "Decidueye",
     "Litten",
     "Torracat",
+    "Incineroar",
 
     
 
