@@ -726,6 +726,7 @@ const pkmn_list =[
     "Litten",
     "Torracat",
     "Incineroar",
+    "Popplio",
 
     
 
