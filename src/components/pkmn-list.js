@@ -772,6 +772,7 @@ const pkmn_list =[
     "Pyukumuku",
     "Type: Null",
     "Silvally",
+    "Minior",
 
     
 
