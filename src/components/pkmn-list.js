@@ -703,6 +703,7 @@ const pkmn_list =[
     "Dedenne",
     "Carbink",
     "Goomy",
+    "Sliggoo",
 
     
 
