@@ -691,6 +691,7 @@ const pkmn_list =[
     "Skrelp",
     "Dragalge",
     "Clauncher",
+    "Clawitzer",
 
     
 
