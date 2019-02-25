@@ -686,6 +686,7 @@ const pkmn_list =[
     "Slurpuff",
     "Inkay",
     "Malamar",
+    "Binacle",
 
     
 
