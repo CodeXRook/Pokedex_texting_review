@@ -589,6 +589,7 @@ const pkmn_list =[
     "Karrablast",
     "Escavalier",
     "Foongus",
+    "Amoonguss",
 
 
 ]
