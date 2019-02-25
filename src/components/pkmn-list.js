@@ -728,6 +728,7 @@ const pkmn_list =[
     "Incineroar",
     "Popplio",
     "Brionne",
+    "Primarina",
 
     
 
