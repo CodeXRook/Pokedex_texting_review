@@ -599,6 +599,7 @@ const pkmn_list =[
     "Ferrothorn",
     "Klink",
     "Klang",
+    "Klinklang",
 
 
 ]
