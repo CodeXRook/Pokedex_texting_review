@@ -714,6 +714,7 @@ const pkmn_list =[
     "Avalugg",
     "Noibat",
     "Noivern",
+    "Xerneas",
 
     
 
