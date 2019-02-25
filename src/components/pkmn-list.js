@@ -596,6 +596,7 @@ const pkmn_list =[
     "Joltik",
     "Galvantula",
     "Ferroseed",
+    "Ferrothorn",
 
 
 ]
