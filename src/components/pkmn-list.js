@@ -646,6 +646,7 @@ const pkmn_list =[
     "Landorus",
     "Kyurem",
     "Keldeo",
+    "Meloetta",
     
 
 
