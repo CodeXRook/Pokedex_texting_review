@@ -765,6 +765,7 @@ const pkmn_list =[
     "Comfey",
     "Oranguru",
     "Passimian",
+    "Wimpod",
 
     
 
