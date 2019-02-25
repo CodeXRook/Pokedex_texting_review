@@ -651,6 +651,7 @@ const pkmn_list =[
     "Chespin",
     "Quilladin",
     "Chesnaught",
+    "Fennekin",
     
 
 
