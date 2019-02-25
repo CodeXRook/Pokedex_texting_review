@@ -696,6 +696,7 @@ const pkmn_list =[
     "Heliolisk",
     "Tyrunt",
     "Tyrantrum",
+    "Amaura",
 
     
 
