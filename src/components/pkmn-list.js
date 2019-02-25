@@ -614,6 +614,7 @@ const pkmn_list =[
     "Cubchoo",
     "Beartic",
     "Cryogonal",
+    "Shelmet",
 
 
 
