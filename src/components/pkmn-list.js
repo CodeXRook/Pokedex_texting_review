@@ -701,6 +701,7 @@ const pkmn_list =[
     "Sylveon",
     "Hawlucha",
     "Dedenne",
+    "Carbink",
 
     
 
