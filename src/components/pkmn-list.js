@@ -632,6 +632,7 @@ const pkmn_list =[
     "Heatmor",
     "Durant",
     "Deino",
+    "Zweilous",
     
 
 
