@@ -770,6 +770,7 @@ const pkmn_list =[
     "Sandygast",
     "Palossand",
     "Pyukumuku",
+    "Type: Null",
 
     
 
