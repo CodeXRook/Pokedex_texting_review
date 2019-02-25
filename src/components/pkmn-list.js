@@ -758,6 +758,7 @@ const pkmn_list =[
     "Salandit",
     "Salazzle",
     "Stufful",
+    "Bewear",
 
     
 
