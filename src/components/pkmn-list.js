@@ -679,6 +679,7 @@ const pkmn_list =[
     "Meowstic",
     "Honedge",
     "Doublade",
+    "Aegislash",
 
     
 
