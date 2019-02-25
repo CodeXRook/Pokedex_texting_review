@@ -608,6 +608,7 @@ const pkmn_list =[
     "Litwick",
     "Lampent",
     "Chandelure",
+    "Axew",
 
 
 
