@@ -705,6 +705,7 @@ const pkmn_list =[
     "Goomy",
     "Sliggoo",
     "Goodra",
+    "Klefki",
 
     
 
