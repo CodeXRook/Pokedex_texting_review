@@ -754,6 +754,7 @@ const pkmn_list =[
     "Fomantis",
     "Lurantis",
     "Morelull",
+    "Shiinotic",
 
     
 
