@@ -719,6 +719,7 @@ const pkmn_list =[
     "Zygarde",
     "Diancie",
     "Hoopa",
+    "Volcanion",
 
     
 
