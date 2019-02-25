@@ -658,6 +658,7 @@ const pkmn_list =[
     "Frogadier",
     "Greninja",
     "Bunnelby",
+    "Diggersby",
     
 
 
