@@ -671,6 +671,8 @@ const pkmn_list =[
     "Floette",
     "Florges",
     "Skiddo",
+    "Gogoat",
+
     
 
 
