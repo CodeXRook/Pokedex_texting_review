@@ -666,6 +666,7 @@ const pkmn_list =[
     "Spewpa",
     "Vivillon",
     "Litleo",
+    "Pyroar",
     
 
 
