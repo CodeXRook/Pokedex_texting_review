@@ -739,6 +739,7 @@ const pkmn_list =[
     "Vikavolt",
     "Crabrawler",
     "Crabominable",
+    "Oricorio",
 
     
 
