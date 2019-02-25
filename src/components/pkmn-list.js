@@ -603,7 +603,8 @@ const pkmn_list =[
     "Tynamo",
     "Eelektrik",
     "Eelektross",
-    
+    "Elgyem",
+
 
 
 
