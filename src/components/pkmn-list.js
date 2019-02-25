@@ -737,6 +737,7 @@ const pkmn_list =[
     "Grubbin",
     "Charjabug",
     "Vikavolt",
+    "Crabrawler",
 
     
 
