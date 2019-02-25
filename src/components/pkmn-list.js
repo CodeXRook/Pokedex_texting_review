@@ -748,6 +748,7 @@ const pkmn_list =[
     "Mareanie",
     "Toxapex",
     "Mudbray",
+    "Mudsdale",
 
     
 
