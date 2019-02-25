@@ -673,6 +673,7 @@ const pkmn_list =[
     "Skiddo",
     "Gogoat",
     "Pancham",
+    "Pangoro",
 
     
 
