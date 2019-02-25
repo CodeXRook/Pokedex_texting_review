@@ -669,6 +669,7 @@ const pkmn_list =[
     "Pyroar",
     "Flabebe",
     "Floette",
+    "Florges",
     
 
 
