@@ -790,6 +790,7 @@ const pkmn_list =[
     "Cosmog",
     "Cosmoem",
     "Solgaleo",
+    "Lunala",
 
     
 
