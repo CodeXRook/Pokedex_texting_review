@@ -793,6 +793,7 @@ const pkmn_list =[
     "Lunala",
     "Nihilego",
     "Buzzwole",
+    "Pheromosa",
 
     
 
