@@ -796,6 +796,7 @@ const pkmn_list =[
     "Pheromosa",
     "Xurkitree",
     "Celesteela",
+    "Kartana",
 
     
 
