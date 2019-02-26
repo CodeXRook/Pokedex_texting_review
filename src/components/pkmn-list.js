@@ -794,6 +794,7 @@ const pkmn_list =[
     "Nihilego",
     "Buzzwole",
     "Pheromosa",
+    "Xurkitree",
 
     
 
