@@ -798,6 +798,7 @@ const pkmn_list =[
     "Celesteela",
     "Kartana",
     "Guzzlord",
+    "Necrozma",
 
     
 
