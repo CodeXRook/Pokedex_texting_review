@@ -775,6 +775,7 @@ const pkmn_list =[
     "Minior",
     "Komala",
     "Turtonator",
+    "Mimikyu",
 
     
 
