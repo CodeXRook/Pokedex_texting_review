@@ -801,6 +801,7 @@ const pkmn_list =[
     "Necrozma",
     "Magearna",
     "Marshadow",
+    "Poipole",
 
     
 
