@@ -773,6 +773,8 @@ const pkmn_list =[
     "Type: Null",
     "Silvally",
     "Minior",
+    "Komala",
+    "Turtonator",
 
     
 
