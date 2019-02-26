@@ -795,6 +795,7 @@ const pkmn_list =[
     "Buzzwole",
     "Pheromosa",
     "Xurkitree",
+    "Celesteela",
 
     
 
