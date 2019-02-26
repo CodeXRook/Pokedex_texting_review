@@ -776,6 +776,7 @@ const pkmn_list =[
     "Komala",
     "Turtonator",
     "Mimikyu",
+    "Bruxish",
 
     
 
