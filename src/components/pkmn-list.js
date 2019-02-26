@@ -786,6 +786,7 @@ const pkmn_list =[
     "Tapu Koko",
     "Tapu Lele",
     "Tapu Bulu",
+    "Tapu Fini",
 
     
 
