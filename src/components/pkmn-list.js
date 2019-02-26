@@ -792,6 +792,7 @@ const pkmn_list =[
     "Solgaleo",
     "Lunala",
     "Nihilego",
+    "Buzzwole",
 
     
 
