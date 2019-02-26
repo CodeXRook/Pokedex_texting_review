@@ -797,6 +797,7 @@ const pkmn_list =[
     "Xurkitree",
     "Celesteela",
     "Kartana",
+    "Guzzlord",
 
     
 
