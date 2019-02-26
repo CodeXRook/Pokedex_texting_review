@@ -789,6 +789,7 @@ const pkmn_list =[
     "Tapu Fini",
     "Cosmog",
     "Cosmoem",
+    "Solgaleo",
 
     
 
