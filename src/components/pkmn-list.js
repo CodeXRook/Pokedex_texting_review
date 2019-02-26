@@ -778,6 +778,7 @@ const pkmn_list =[
     "Togedemaru",
     "Mimikyu",
     "Bruxish",
+    "Drampa",
 
     
 
