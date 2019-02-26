@@ -805,13 +805,7 @@ const pkmn_list =[
     "Naganadel",
     "Stakataka",
     "Blacephalon",
-
-    
-
-
-
-
-
+    "Zeraora"
 ]
 
 export {pkmn_list};
