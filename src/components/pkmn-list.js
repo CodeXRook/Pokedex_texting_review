@@ -804,6 +804,7 @@ const pkmn_list =[
     "Poipole",
     "Naganadel",
     "Stakataka",
+    "Blacephalon",
 
     
 
