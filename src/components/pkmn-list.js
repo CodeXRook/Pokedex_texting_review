@@ -779,6 +779,7 @@ const pkmn_list =[
     "Mimikyu",
     "Bruxish",
     "Drampa",
+    "Dhelmise",
 
     
 
