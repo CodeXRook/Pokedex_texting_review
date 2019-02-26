@@ -780,6 +780,7 @@ const pkmn_list =[
     "Bruxish",
     "Drampa",
     "Dhelmise",
+    "Jangmo-o",
 
     
 
