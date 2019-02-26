@@ -803,6 +803,7 @@ const pkmn_list =[
     "Marshadow",
     "Poipole",
     "Naganadel",
+    "Stakataka",
 
     
 
