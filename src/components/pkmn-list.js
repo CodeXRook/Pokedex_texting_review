@@ -800,6 +800,7 @@ const pkmn_list =[
     "Guzzlord",
     "Necrozma",
     "Magearna",
+    "Marshadow",
 
     
 
