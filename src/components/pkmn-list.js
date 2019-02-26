@@ -784,6 +784,7 @@ const pkmn_list =[
     "Hakamo-o",
     "Kommo-o",
     "Tapu Koko",
+    "Tapu Lele",
 
     
 
